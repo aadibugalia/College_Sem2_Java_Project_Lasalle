@@ -1,0 +1,14 @@
+{
+  "category": [
+    {
+      "selection": 1,
+      "name": "MOVIE",
+      "desc": "questions related to Hollywood Movies"
+    },
+    {
+      "selection": 2,
+      "name": "SCIENCE",
+      "desc": "questions related to Science"
+    }
+  ]
+}

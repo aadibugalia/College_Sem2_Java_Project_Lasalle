@@ -1,0 +1,12 @@
+{
+  "category": [
+    {
+      "name": "Food",
+      "desc": "questions related to food items"
+    },
+    {
+      "name": "Art",
+      "desc": "questions related to Art Types"
+    }
+  ]
+}
